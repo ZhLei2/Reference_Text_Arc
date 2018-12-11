@@ -26,6 +26,6 @@ void draw() {
   arc(mouseX-170,mouseY-140,55,63,radians(260),radians(450));
   arc(mouseX-170,mouseY+160,55,63,radians(260),radians(450));
   
-  save ("Zhentao_Reference_TextArc.png");
+
 
 }
